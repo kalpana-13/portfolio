@@ -81,7 +81,7 @@ const Index = () => {
     <>
       <nav className="navbar  left-0 sticky">
         <div className="logo slide-up">
-          <span>Siddharth</span>
+          <span>KALPANA</span>
         </div>
         <ul className="nav-links">
           <li className="slide-up"><a href="#home">Home</a></li>
@@ -123,7 +123,7 @@ const Index = () => {
           </div>
           <div className="hero-content">
             <h3 className="greeting slide-up">Hi, I am</h3>
-            <h1 className="name slide-up">SIDDHARTH SUMAN</h1>
+            <h1 className="name slide-up">KALPANA JANGIR</h1>
             <div className="typewriter-container slide-up">
               <span className="typewriter-text">I am a <span className="typewriter-role">{displayText}</span><span className="cursor">|</span></span>
             </div>
