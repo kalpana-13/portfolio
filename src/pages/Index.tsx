@@ -133,16 +133,16 @@ const Index = () => {
               Committed to writing clean, efficient code and delivering high-quality software solutions.
             </p>
             <div className="social-icons">
-              <a href="https://github.com/siddharth-gh" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
+              <a href="https://github.com/kalpana-13" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com/in/siddharth037" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
+              <a href="https://www.linkedin.com/in/kalpana34/" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:937.siddharth@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
+              <a href="mailto:937.kalpanajangir115@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon slide-up">
                 <Mail size={24} />
               </a>
-              <a href="tel:+919709457320" className="social-icon slide-up">
+              <a href="tel:+918709457320" className="social-icon slide-up">
                 <Phone size={24} />
               </a>
             </div>
@@ -159,7 +159,7 @@ const Index = () => {
               <div className="project-image">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80" alt="Notes.Me Project" />
               </div>
-              <h3>Notes.Me</h3>
+              <h3>TextUtils</h3>
               <p className="project-duration">May, 2024 - Jun, 2024</p>
               <p>Existing note-taking apps lacked personalization features like bookmarking and dark mode.</p>
               <p>Enhanced a full-stack MERN note-taking app with authentication, CRUD operations, and user-friendly UI.</p>
@@ -168,7 +168,7 @@ const Index = () => {
                 <a href="https://notes-me.vercel.app" target="_blank" rel="noopener noreferrer" className="project-button">
                   <ExternalLink size={20} /> View Live
                 </a>
-                <a href="https://github.com/siddharth-gh/notes-me" target="_blank" rel="noopener noreferrer" className="project-button">
+                <a href="https://github.com/kalpana-13/TextUtils" target="_blank" rel="noopener noreferrer" className="project-button">
                   <Github size={20} /> Github
                 </a>
               </div>
@@ -186,7 +186,7 @@ const Index = () => {
                 <a href="https://quiz-app.vercel.app" target="_blank" rel="noopener noreferrer" className="project-button">
                   <ExternalLink size={20} /> View Live
                 </a>
-                <a href="https://github.com/siddharth-gh/quiz-app" target="_blank" rel="noopener noreferrer" className="project-button">
+                <a href="https://github.com/kalpana-13/Quizzy" target="_blank" rel="noopener noreferrer" className="project-button">
                   <Github size={20} /> Github
                 </a>
               </div>
@@ -204,7 +204,7 @@ const Index = () => {
                 <a href="https://ecommerce.vercel.app" target="_blank" rel="noopener noreferrer" className="project-button">
                   <ExternalLink size={20} /> View Live
                 </a>
-                <a href="https://github.com/siddharth-gh/ecommerce" target="_blank" rel="noopener noreferrer" className="project-button">
+                <a href="https://github.com/kalpana-13/DarshanECommerce" target="_blank" rel="noopener noreferrer" className="project-button">
                   <Github size={20} /> Github
                 </a>
               </div>
@@ -218,10 +218,10 @@ const Index = () => {
             <div className="timeline-item slide-up">
               <div className="timeline-dot">2024</div>
               <div className="timeline-content">
-                <h3>MERN Stack Trainee</h3>
-                <p className="institution">CipherSchools</p>
+                <h3>DSA Self Paced</h3>
+                <p className="institution">GeeksForGeeks</p>
                 <p className="grade">June, 2024 - July, 2024</p>
-                <p>Collaborated to develop a notes app during training period.</p>
+                <p>Learnt About Data Structures and Algorithms</p>
               </div>
             </div>
           </div>
@@ -235,8 +235,8 @@ const Index = () => {
               <p>Udemy - November 2023</p>
             </div>
             <div className="certification-card slide-up">
-              <h3>Full-Stack Development using MERN stack</h3>
-              <p>CipherSchools - October 2024</p>
+              <h3>DSA Self-paced</h3>
+              <p>GeeksForGeeks - October 2024</p>
             </div>
             <div className="certification-card slide-up">
               <h3>Cloud Computing</h3>
@@ -253,8 +253,12 @@ const Index = () => {
               <p>Earned a 3-star code Silver badge in hacker-rank Cpp programming</p>
             </div>
             <div className="achievement-card slide-up">
+              <h3>Rank 300 in GFG</h3>
+              <p>Ranked 300 in university on GeeksForGeeks coding platform </p>
+            </div>
+            <div className="achievement-card slide-up">
               <h3>Problem Solving</h3>
-              <p>Solved 100+ problems on LeetCode, improving proficiency in Data Structures & Algorithms</p>
+              <p>Solved 150+ problems on LeetCode, improving proficiency in Data Structures & Algorithms</p>
             </div>
           </div>
         </section>
@@ -267,26 +271,26 @@ const Index = () => {
               <div className="timeline-content">
                 <h3>Bachelor of Technology in Computer Science and Engineering</h3>
                 <p className="institution">Lovely Professional University, Punjab, India</p>
-                <p className="grade">CGPA: 7.63/10</p>
+                <p className="grade">CGPA: 7.10</p>
                 <p>Since August 2022</p>
               </div>
             </div>
             <div className="timeline-item slide-up">
-              <div className="timeline-dot">2021</div>
+              <div className="timeline-dot">2022</div>
               <div className="timeline-content">
                 <h3>Intermediate</h3>
-                <p className="institution">Himalayan Public School, Bihar, India</p>
-                <p className="grade">Percentage: 70.5%</p>
-                <p>April 2019 - March 2021</p>
+                <p className="institution">Bal Bharti School</p>
+                <p className="grade">Percentage: 92.2%</p>
+                <p>April 2020 - March 2022</p>
               </div>
             </div>
             <div className="timeline-item slide-up">
-              <div className="timeline-dot">2018</div>
+              <div className="timeline-dot">2020</div>
               <div className="timeline-content">
                 <h3>Matriculation</h3>
-                <p className="institution">D.A.V. Public School, Bihar, India</p>
+                <p className="institution">Bal Bharti School</p>
                 <p className="grade">Percentage: 93%</p>
-                <p>April 2008 - March 2018</p>
+                <p>April 2010 - March 2020</p>
               </div>
             </div>
           </div>
@@ -332,20 +336,20 @@ const Index = () => {
               <h3>Let's Collaborate</h3>
               <p>I'm always open for new opportunities and interesting projects.</p>
               <div className="contact-info">
-                <p><Mail size={16} /> 937.siddharth@gmail.com</p>
-                <p><Phone size={16} /> +91-9709457320</p>
+                <p><Mail size={16} /> kalpanajangir115@gmail.com</p>
+                <p><Phone size={16} /> +91-6378880877</p>
               </div>
               <div className="social-icons">
-                <a href="https://github.com/siddharth-gh" target="_blank" rel="noopener noreferrer" className="social-icon">
+                <a href="https://github.com/kalpana-13" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <Github size={24} />
                 </a>
-                <a href="https://linkedin.com/in/siddharth037" target="_blank" rel="noopener noreferrer" className="social-icon">
+                <a href="https://www.linkedin.com/in/kalpana34/" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <Linkedin size={24} />
                 </a>
-                <a href="mailto:937.siddharth@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                <a href="mailto:kalpanajangir115@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <Mail size={24} />
                 </a>
-                <a href="tel:+919709457320" className="social-icon">
+                <a href="tel:+916378880877" className="social-icon">
                   <Phone size={24} />
                 </a>
               </div>
@@ -362,7 +366,7 @@ const Index = () => {
         </section>
 
         <footer className="footer">
-          <p>Designed and developed with ❤️ by Siddharth Suman</p>
+          <p>Designed and developed with ❤️ by Kalpana Jangir</p>
         </footer>
       </div>
     </>
