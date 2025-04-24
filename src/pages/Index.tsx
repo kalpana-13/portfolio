@@ -157,7 +157,7 @@ const Index = () => {
           <div className="projects-grid">
             <div className="project-card slide-up">
               <div className="project-image">
-                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80" alt="Notes.Me Project" />
+                <img src="/Screenshot (180).png" alt="Notes.Me Project" />
               </div>
               <h3>TextUtils</h3>
               <p className="project-duration">May, 2024 - Jun, 2024</p>
@@ -175,7 +175,7 @@ const Index = () => {
             </div>
             <div className="project-card slide-up">
               <div className="project-image">
-                <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&q=80" alt="Quiz App Project" />
+                <img src="/Quiz.png" alt="Quiz App Project" />
               </div>
               <h3>Quiz App</h3>
               <p className="project-duration">Aug, 2024 - Nov, 2024</p>
@@ -193,7 +193,7 @@ const Index = () => {
             </div>
             <div className="project-card slide-up">
               <div className="project-image">
-                <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&q=80" alt="Ecommerce Website Project" />
+                <img src="/ecomm.jpg" alt="Ecommerce Website Project" />
               </div>
               <h3>Ecommerce Website</h3>
               <p className="project-duration">Jan, 2024 - May, 2024</p>
